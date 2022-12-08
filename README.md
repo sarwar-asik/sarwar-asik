@@ -1,6 +1,6 @@
 <img align="right" src="https://i.ibb.co/8DL3G7L/banner-Orrange.png" />
 <h1 align="center"> SARWAR HOSSAIN </h1>
-<h2 align="center">Font end Developer.</h2>
+<h2 align="center">Front end Developer.</h2>
 
 ## :mailbox: Reach me out
 
