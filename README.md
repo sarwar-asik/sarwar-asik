@@ -70,6 +70,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=sarwar-asik&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sarwar-asik&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sarwar-asik&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
+# 🛷 Projects Stats:
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sarwar-asik&repo=portfolio-client)](https://github.com/sarwar-asik/portfolio-client)
+    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sarwar-asik&repo=doctors-project)](https://github.com/sarwar-asik/doctors-project)
+    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sarwar-asik&repo=used-car-depo)](https://github.com/sarwar-asik/used-car-depo)
 
 
