@@ -1,4 +1,4 @@
-<img align="right" src="https://i.ibb.co/8DL3G7L/banner-Orrange.png" />
+<img align="right" src="https://raw.githubusercontent.com/sarwar-asik/sarwar-asik/main/bannerProfile.png" />
 <h1 align="center"> SARWAR HOSSAIN </h1>
 <h2 align="center">Front-end Developer.</h2>
 
