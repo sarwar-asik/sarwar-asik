@@ -7,7 +7,7 @@
 <br/>
 <br/>
 
-<img align="right" height="250" width="400" alt="GIF" src="https://i.ibb.co/BC3F1mK/html-Lottie.gif" />
+<img align="right" height="250" width="400" alt="GIF" src="https://github.com/sarwar-asik/sarwar-asik/blob/main/htmlLottie.gif?raw=true" />
 
 - 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **Frontend 𝚊𝚗𝚍 MERN 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.**
 - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **Advance Web Development 
