@@ -7,7 +7,7 @@
 <br/>
 <br/>
 
-<img align="right" height="250" width="400" alt="GIF" src="https://camo.githubusercontent.com/86a3b6db470f1a0429f7355c08d1edabf3d2c804/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966"/>
+<img align="right" height="250" width="400" alt="GIF" src="https://github.com/sarwar-asik/sarwar-asik/blob/main/htmlLottie.gif" />
 
 - 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **Frontend 𝚊𝚗𝚍 MERN 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.**
 - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **Advance Web Development 
@@ -125,7 +125,13 @@
 <p align="center">
   <img height="150" width="150" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/left.webp">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarwar-asik&theme=dark&hide_border=true"/>
+
   <img height="150" width="150" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/right.webp">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sarwar-asik&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+ </br>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarwar-asik&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+
+
 </p>
 
 
@@ -133,8 +139,6 @@
   
 
 
-![](https://github-readme-stats.vercel.app/api?username=sarwar-asik&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sarwar-asik&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 </p>
 
