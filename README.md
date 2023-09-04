@@ -151,8 +151,8 @@
 
 # 🛷 Projects Stats:
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sarwar-asik&repo=All-mongo)](https://github.com/sarwar-asik/All-mongo)
-      [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sarwar-asik&repo=used-car-depo)](https://github.com/sarwar-asik/used-car-depo)
-     [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sarwar-asik&repo=doctors-project)](https://github.com/sarwar-asik/doctors-project)
+      [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sarwar-asik&repo=car-depo)](https://github.com/sarwar-asik/car-depo)
+     [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sarwar-asik&repo=Cheap-pc-builder)](https://github.com/sarwar-asik/Cheap-pc-builder)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sarwar-asik&repo=ready-serverPrismaPostgres)](https://github.com/sarwar-asik/ready-serverPrismaPostgres)
 
 
