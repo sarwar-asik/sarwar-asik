@@ -129,7 +129,7 @@
   <img height="150" width="150" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/right.webp">
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sarwar-asik&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
  </br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarwar-asik&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarwar-asik&theme=marco&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 
 
 </p>
@@ -150,9 +150,9 @@
 
 
 # 🛷 Projects Stats:
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sarwar-asik&repo=portfolio-client)](https://github.com/sarwar-asik/portfolio-client)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sarwar-asik&repo=All-mongo)](https://github.com/sarwar-asik/All-mongo)
       [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sarwar-asik&repo=used-car-depo)](https://github.com/sarwar-asik/used-car-depo)
      [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sarwar-asik&repo=doctors-project)](https://github.com/sarwar-asik/doctors-project)
-    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sarwar-asik&repo=used-car-depo)](https://github.com/sarwar-asik/used-car-depo)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sarwar-asik&repo=ready-serverPrismaPostgres)](https://github.com/sarwar-asik/ready-serverPrismaPostgres)
 
 
