@@ -20,7 +20,7 @@
 <br/>
 
 
-<img align="center" height="450" width="100%" src="https://raw.githubusercontent.com/sarwar-asik/sarwar-asik/main/bannerProfile.png" />
+<img align="center" height="550" width="100%" src="https://i.ibb.co/VxhHWhd/professional-Side.png" />
 
 
 ## :mailbox: Reach me out
@@ -34,9 +34,13 @@
 - 📲 How to reach me  **sarwarasik@gmail.com**
 - ✅ reach me WhatsApp  **+8801602819933**
 
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sarwar-portfolio-ed334.web.app/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarwar-hossain-a29660257/)
+[![twitter](https://img.shields.io/badge/facebook-1093f4?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100087624802395)
+
 
 <div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
+  <a href="https://github.com/sarwar-asik/sarwar-asik/">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
