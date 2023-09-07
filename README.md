@@ -131,14 +131,20 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarwar-asik&theme=dark&hide_border=true"/>
 
   <img height="150" width="150" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/right.webp">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sarwar-asik&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sarwar-asik&show_icons=true&theme=transparent" alt="GitHub Stats">
+</p>
+   
  </br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarwar-asik&theme=marco&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+
+
+
 </p>
 
 
 <p align="center">
-  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarwar-asik&theme=marco&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 
 </p>
 
