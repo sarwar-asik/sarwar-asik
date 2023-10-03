@@ -1,27 +1,28 @@
 <h1 align="center">
   <img src="GIF/Earth.gif" width="24px">
-     Sarwar Hossain, &lt;MERN Stack Developer/&gt;!
+     Sarwar Hossain &lt;
+     <!-- MERN Stack Developer/&gt;! -->
   <img src="GIF/Hi.gif" width="40px" />
 </h1>
 
+<h3 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&center=true&vCenter=true&multiline=true&width=460&lines=Full+Stack+Developer+%3C%2F%3E" alt="Typing SVG" /></a>
+</h3>
+
 <br/>
 <br/>
 
-<img align="right" height="250" width="400" alt="GIF" src="https://github.com/sarwar-asik/sarwar-asik/blob/main/htmlLottie.gif?raw=true" />
+<img align="right" height="250" width="400" alt="GIF" src="https://github.com/sarwar-asik/sarwar-asik/blob/main/p-banner.jpg?raw=true" />
 
 - 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **Frontend 𝚊𝚗𝚍 MERN 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.**
-- 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **Advance Web Development 
-   and Python Library**
-- 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **Frontend and Backend  𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.**
+- 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **Advance Web Development
+  and Python Library**
+- 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **Frontend and Backend 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.**
 - 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://bd.linkedin.com/in/sarwar-hossain-a29660257) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
-- ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 𝚃𝚑𝚎 𝙹𝚘𝚞𝚛𝚗𝚎𝚢 𝙸𝚜 : *𝙸𝚝 𝙴𝚗𝚍𝚜.***
+- ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 𝚃𝚑𝚎 𝙹𝚘𝚞𝚛𝚗𝚎𝚢 𝙸𝚜 : _𝙸𝚝 𝙴𝚗𝚍𝚜._**
 
 <br/>
 <br/>
-
-
-<img align="center" height="550" width="100%" src="https://i.ibb.co/VxhHWhd/professional-Side.png" />
-
 
 ## :mailbox: Reach me out
 
@@ -29,15 +30,14 @@
 
 - 👨‍💻 My All project are [https://github.com/sarwar-asik?tab=repositories]
 
-- 💬 Ask me about **react.js** 
+- 💬 Ask me about **react.js**
 
-- 📲 How to reach me  **sarwarasik@gmail.com**
-- ✅ reach me WhatsApp  **+8801602819933**
+- 📲 How to reach me **sarwarasik@gmail.com**
+- ✅ reach me WhatsApp **+8801602819933**
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sarwar-portfolio-ed334.web.app/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarwar-hossain-a29660257/)
 [![twitter](https://img.shields.io/badge/facebook-1093f4?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100087624802395)
-
 
 <div align="center">
   <a href="https://github.com/sarwar-asik/sarwar-asik/">
@@ -45,37 +45,32 @@
        alt="snake" /></a>
 </div>
 
+## :computer: My Technology Skills
 
-## :computer: My Technology Skills 
 <be>
 
+### Frontend
 
-### Frontend  
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Redux_Badge](https://img.shields.io/badge/Redux%20TollKit-764abc?style=for-the-badge&logo=redux&logoColor=06B6D4&labelColor=000000)](#) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Next.js Badge](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](#)[![Firebase_Badge](https://img.shields.io/badge/Firebase%20Auth-1a73e8?style=for-the-badge&logo=firebase&logoColor=ffca28&labelColor=000000)](#)[![Tailwind Badge](https://img.shields.io/badge/Tailwind%20CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)](#)[![Bootstrap_Badge](https://img.shields.io/badge/BootStrap-732ffa?style=for-the-badge&logo=bootstrap&logoColor=732ffa&labelColor=white)](#)![Antdesign_Badge](https://img.shields.io/badge/Ant%20Design-f63b4c?style=for-the-badge&logo=antdesign&logoColor=117eff&labelColor=000000)
-
 
 </td><td valign="top" width="33%">
 
-### Backend  
+### Backend
 
- [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Express.js Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](#) [![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=4EA94B&labelColor=white)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
+[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Express.js Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](#) [![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=4EA94B&labelColor=white)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
 
- ![Postgress_Badge](https://img.shields.io/badge/Postgre%20SQL-689dc8?style=for-the-badge&logo=postgresql&logoColor=117eff&labelColor=000000)
+![Postgress_Badge](https://img.shields.io/badge/Postgre%20SQL-689dc8?style=for-the-badge&logo=postgresql&logoColor=117eff&labelColor=000000)
 ![prisma_Badge](https://img.shields.io/badge/prisma%20ORm-5a67d8?style=for-the-badge&logo=prisma&logoColor=black&labelColor=white)
 ![JWT_Badge](https://img.shields.io/badge/Json%20Web%20Token-d63aff?style=for-the-badge&logo=jwt&logoColor=117eff&labelColor=000000)
 ![Python_Badge](https://img.shields.io/badge/Python%20Fundamental-326d9d?style=for-the-badge&logo=python&logoColor=ffdc6b&labelColor=1e2933)
 
-### Tools   
+### Tools
 
- [![VSCode Badge](https://img.shields.io/badge/Visual_Studio-092749?style=for-the-badge&logo=visual%20studio&logoColor=06B6D4&labelColor=000000)](#) [![GitHub Badge](https://img.shields.io/badge/GitHub-1e2933?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](#)
-  [![vercel Badge](https://img.shields.io/badge/vercel-1e2933?style=for-the-badge&logo=vercel&logoColor=&labelColor=000000)](#)
- [![Netlify Badge](https://img.shields.io/badge/netlify-230a5c?style=for-the-badge&logo=netlify&logoColor=2fc8c6&labelColor=000000)](#)
+[![VSCode Badge](https://img.shields.io/badge/Visual_Studio-092749?style=for-the-badge&logo=visual%20studio&logoColor=06B6D4&labelColor=000000)](#) [![GitHub Badge](https://img.shields.io/badge/GitHub-1e2933?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](#)
+[![vercel Badge](https://img.shields.io/badge/vercel-1e2933?style=for-the-badge&logo=vercel&logoColor=&labelColor=000000)](#)
+[![Netlify Badge](https://img.shields.io/badge/netlify-230a5c?style=for-the-badge&logo=netlify&logoColor=2fc8c6&labelColor=000000)](#)
 [![Figma Badge](https://img.shields.io/badge/Figma-ff7362?style=for-the-badge&logo=figma&logoColor=f24d18&labelColor=white)](#)
 [![pycharm Badge](https://img.shields.io/badge/pycharm-28b8a0?style=for-the-badge&logo=pycharm&logoColor=f24d1&labelColor=black)](#)
-
-
-
-
 
 <h1>
   Connect With Me
@@ -100,7 +95,6 @@
   </a>     
 </p>
 
-
 <br/>
 <br/>
 
@@ -110,8 +104,6 @@
 
 </div>
 
-
-  
 # 📊 GitHub Stats:
 
 <p align="center">
@@ -126,10 +118,7 @@
    
  </br>
 
-
-
 </p>
-
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarwar-asik&theme=marco&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
@@ -138,13 +127,11 @@
 
 #
 
-
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=sarwar-asik&margin-w=15)](https://github-profile-trophy.vercel.app/?username=sarwar-asik&margin-w=15)
 
 # 🛷 Projects Stats:
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sarwar-asik&repo=All-mongo)](https://github.com/sarwar-asik/All-mongo)
-      [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sarwar-asik&repo=car-depo)](https://github.com/sarwar-asik/car-depo)
-     [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sarwar-asik&repo=Cheap-pc-builder)](https://github.com/sarwar-asik/Cheap-pc-builder)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sarwar-asik&repo=ready-serverPrismaPostgres)](https://github.com/sarwar-asik/ready-serverPrismaPostgres)
 
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sarwar-asik&repo=All-mongo)](https://github.com/sarwar-asik/All-mongo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sarwar-asik&repo=car-depo)](https://github.com/sarwar-asik/car-depo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sarwar-asik&repo=Cheap-pc-builder)](https://github.com/sarwar-asik/Cheap-pc-builder)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sarwar-asik&repo=ready-serverPrismaPostgres)](https://github.com/sarwar-asik/ready-serverPrismaPostgres)
