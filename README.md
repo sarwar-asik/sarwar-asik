@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="GIF/Earth.gif" width="24px">
-     Sarwar Hossain &lt;
+     Sarwar Hossain  < /> 
      <!-- MERN Stack Developer/&gt;! -->
   <img src="GIF/Hi.gif" width="40px" />
 </h1>
@@ -15,9 +15,9 @@
 
 <img align="right" height="250" width="400" alt="GIF" src="https://github.com/sarwar-asik/sarwar-asik/blob/main/p-banner.jpg?raw=true" />
 
-- 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **Frontend 𝚊𝚗𝚍 MERN 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.**
+- 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **Frontend 𝚊𝚗𝚍 Backend 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.**
 - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **Advance Web Development
-  and Python Library**
+  and Backend tech**
 - 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **Frontend and Backend 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.**
 - 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://bd.linkedin.com/in/sarwar-hossain-a29660257) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
 - ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 𝚃𝚑𝚎 𝙹𝚘𝚞𝚛𝚗𝚎𝚢 𝙸𝚜 : _𝙸𝚝 𝙴𝚗𝚍𝚜._**
@@ -31,7 +31,7 @@
 
 - 👨‍💻 My All project are [https://github.com/sarwar-asik?tab=repositories]
 
-- 💬 Ask me about **react.js**
+- 💬 Ask me about **react.js,Nextjs,redux ,PostgreSQL and MongoDb**
 
 - 📲 How to reach me **sarwarasik@gmail.com**
 - ✅ reach me WhatsApp **+8801602819933**
@@ -128,7 +128,7 @@
 
 #
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sarwar-asik&margin-w=15)](https://github-profile-trophy.vercel.app/?username=sarwar-asik&margin-w=15)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sarwar-asik&margin-w=18)](https://github-profile-trophy.vercel.app/?username=sarwar-asik&margin-w=15)
 
 # 🛷 Projects Stats:
 
