@@ -19,7 +19,7 @@
 - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **Advance Web Development
   and Backend tech**
 - 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **Frontend and Backend 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.**
-- 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://bd.linkedin.com/in/sarwar-hossain-a29660257) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
+- 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://bd.linkedin.com/in/sarwar-asik) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
 - ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 𝚃𝚑𝚎 𝙹𝚘𝚞𝚛𝚗𝚎𝚢 𝙸𝚜 : _𝙸𝚝 𝙴𝚗𝚍𝚜._**
 
 <br/>
@@ -31,13 +31,13 @@
 
 - 👨‍💻 My All project are [https://github.com/sarwar-asik?tab=repositories]
 
-- 💬 Ask me about **react.js,Nextjs,redux ,PostgreSQL and MongoDb**
+- 💬 Ask me about **react.js,Nextjs,redux ,PostgreSQL and MongoDB**
 
 - 📲 How to reach me **sarwarasik@gmail.com**
 - ✅ reach me WhatsApp **+8801602819933**
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sarwar-portfolio-ed334.web.app/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarwar-hossain-a29660257/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sarwar.vercel.app/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarwar-asik)
 [![twitter](https://img.shields.io/badge/facebook-1093f4?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100087624802395)
 
 
@@ -130,8 +130,8 @@
 
 # 🛷 Projects Stats:
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sarwar-asik&repo=Ordin-Frontend)](https://github.com/sarwar-asik/Ordin-Frontend)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sarwar-asik&repo=All-mongo)](https://github.com/sarwar-asik/All-mongo)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sarwar-asik&repo=car-depo)](https://github.com/sarwar-asik/car-depo)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sarwar-asik&repo=Cheap-pc-builder)](https://github.com/sarwar-asik/Cheap-pc-builder)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sarwar-asik&repo=ready-serverPrismaPostgres)](https://github.com/sarwar-asik/ready-serverPrismaPostgres)
 
