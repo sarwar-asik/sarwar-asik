@@ -6,14 +6,14 @@
 </h1>
 
 <h3 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&pause=1000&center=true&vCenter=true&multiline=true&width=560&lines=Full+Stack+Web+Developer" alt="Typing SVG" /></a>
+<a  href="https://git.io/typing-svg"><img  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&pause=1000&center=true&vCenter=true&multiline=true&width=560&lines=Full+Stack+Web+Developer" alt="Typing SVG" /></a>
 </h3>
 
 
 <br/>
 <br/>
 
-<img align="right" height="250" width="400" alt="GIF" src="./p-banner.jpg" />
+<img align="right" height="250" width="400" alt="GIF" src="./SarwarBanner3.png" />
 
 - 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **Frontend 𝚊𝚗𝚍 Backend 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.**
 - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **Advance Web Development
