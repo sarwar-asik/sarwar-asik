@@ -119,14 +119,21 @@
 
 </p>
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarwar-asik&theme=marco&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 
-</p>
+<div align="center">
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=sarwar-asik)
+
+
+<img aligh="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarwar-asik&theme=maro&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+
+</div>
+
+
 
 #
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sarwar-asik&margin-w=18)](https://github-profile-trophy.vercel.app/?username=sarwar-asik&margin-w=15)
+
 
 # 🛷 Projects Stats:
 
