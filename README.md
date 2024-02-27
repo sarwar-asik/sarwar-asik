@@ -144,7 +144,7 @@
 
 
 <div align="center">
-  <a href="https://github.com/sarwar-asik/sarwar-asik/">
+<!--   <a href="https://github.com/sarwar-asik/sarwar-asik/">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+       alt="snake" /></a> -->
 </div>
