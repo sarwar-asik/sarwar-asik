@@ -25,22 +25,27 @@
 <br/>
 <br/>
 
+
+
+
 ## :mailbox: Reach me out
+
+<a align="right" href="https://app.daily.dev/sarwarhossain"><img align="right" src="https://api.daily.dev/devcards/v2/TyEurXw1mJ51pnq8TDF5f.png?r=wxb&type=wide" width="400" height="220" alt="Sarwar Hossain's Dev Card"/></a>
+
+
 
 - 🎫 I’m currently learning **Python and Django**
 
-- 👨‍💻 My All project are [https://github.com/sarwar-asik?tab=repositories]
-
-- 💬 Ask me about **react.js,Nextjs,redux ,PostgreSQL and MongoDB**
+- 💬 Ask me about **React.js, Next.js, Redux, PostgreSQL, and MongoDB**
 
 - 📲 How to reach me **sarwarasik@gmail.com**
-- ✅ reach me WhatsApp **+8801602819933**
+- ✅ Reach me via WhatsApp **+8801602819933**
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sarwar.vercel.app/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarwar-asik)
 [![twitter](https://img.shields.io/badge/facebook-1093f4?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100087624802395)
 
-
+---
 
 
 
