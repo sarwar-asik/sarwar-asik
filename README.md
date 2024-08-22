@@ -6,21 +6,21 @@
 </h1>
 
 <h3 align="center">
-<a  href="https://git.io/typing-svg"><img  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&pause=1000&center=true&vCenter=true&multiline=true&width=560&lines=Full+Stack+Web+Developer" alt="Typing SVG" /></a>
+<a  href="https://git.io/typing-svg"><img  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&pause=1000&center=true&vCenter=true&multiline=true&width=600&lines=Full+Stack+Software+Developer" alt="Typing SVG" /></a>
 </h3>
 
 
 <br/>
 <br/>
 
-<img align="right" height="250" width="400" alt="GIF" src="./SarwarBanner3.png" />
-
+<img align="right" height="380" width="100%" alt="GIF" src="./bannerSoftwareDeveloper.jpeg" />
+<!-- 
 - 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **Frontend 𝚊𝚗𝚍 Backend 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.**
 - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **Advance Web Development
   and Backend tech**
 - 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **Frontend and Backend 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.**
 - 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://bd.linkedin.com/in/sarwar-asik) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
-- ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 𝚃𝚑𝚎 𝙹𝚘𝚞𝚛𝚗𝚎𝚢 𝙸𝚜 : _𝙸𝚝 𝙴𝚗𝚍𝚜._**
+- ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 𝚃𝚑𝚎 𝙹𝚘𝚞𝚛𝚗𝚎𝚢 𝙸𝚜 : _𝙸𝚝 𝙴𝚗𝚍𝚜._** -->
 
 <br/>
 <br/>
@@ -28,18 +28,26 @@
 
 
 
-## :mailbox: Reach me out
-
-<a align="right" href="https://app.daily.dev/sarwarhossain"><img align="right" src="https://api.daily.dev/devcards/v2/TyEurXw1mJ51pnq8TDF5f.png?r=wxb&type=wide" width="400" height="220" alt="Sarwar Hossain's Dev Card"/></a>
+<!-- ## :mailbox: Reach me out -->
 
 
-
+<!-- 
 - 🎫 I’m currently learning **Python and Django**
 
 - 💬 Ask me about **React.js, Next.js, Redux, PostgreSQL, and MongoDB**
 
 - 📲 How to reach me **sarwarasik@gmail.com**
-- ✅ Reach me via WhatsApp **+8801602819933**
+- ✅ Reach me via WhatsApp **+8801602819933** -->
+
+<br/>
+
+<be>
+---
+</be>
+
+## Reach Me .
+
+
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sarwar.vercel.app/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarwar-asik)
@@ -49,7 +57,7 @@
 
 
 
-## :computer: My Technology Skills
+## My Technology Skills
 
 <be>
 
@@ -95,7 +103,7 @@
     
   </a>
   <a href="https://discord.com/users/.sarwarhossain">
-    <code><img src="https://github.com/sarwar-asik/sarwar-asik/blob/main/discordimages.png" alt="Jayant Goel's DEV Profile" height="62" width="62"></code>
+    <code><img src="https://github.com/sarwar-asik/sarwar-asik/blob/main/discordimages.png" alt="Sarwar Hossain Discord" height="62" width="62"></code>
   </a>     
 </p>
 
