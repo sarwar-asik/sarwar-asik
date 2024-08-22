@@ -13,7 +13,7 @@
 <br/>
 <br/>
 
-<img align="right" height="250" width="400" alt="GIF" src="./bannerSoftwareDeveloper.jpeg" />
+<img align="right" height="350" width="100%" alt="GIF" src="./bannerSoftwareDeveloper.jpeg" />
 <!-- 
 - 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **Frontend 𝚊𝚗𝚍 Backend 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.**
 - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **Advance Web Development
@@ -28,18 +28,26 @@
 
 
 
-## :mailbox: Reach me out
-
-<a align="right" href="https://app.daily.dev/sarwarhossain"><img align="right" src="https://api.daily.dev/devcards/v2/TyEurXw1mJ51pnq8TDF5f.png?r=wxb&type=wide" width="400" height="220" alt="Sarwar Hossain's Dev Card"/></a>
+<!-- ## :mailbox: Reach me out -->
 
 
-
+<!-- 
 - 🎫 I’m currently learning **Python and Django**
 
 - 💬 Ask me about **React.js, Next.js, Redux, PostgreSQL, and MongoDB**
 
 - 📲 How to reach me **sarwarasik@gmail.com**
-- ✅ Reach me via WhatsApp **+8801602819933**
+- ✅ Reach me via WhatsApp **+8801602819933** -->
+
+<br/>
+
+<be>
+---
+</be>
+
+## Reach Me .
+
+
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sarwar.vercel.app/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarwar-asik)
@@ -49,7 +57,7 @@
 
 
 
-## :computer: My Technology Skills
+## My Technology Skills
 
 <be>
 
@@ -95,7 +103,7 @@
     
   </a>
   <a href="https://discord.com/users/.sarwarhossain">
-    <code><img src="https://github.com/sarwar-asik/sarwar-asik/blob/main/discordimages.png" alt="Jayant Goel's DEV Profile" height="62" width="62"></code>
+    <code><img src="https://github.com/sarwar-asik/sarwar-asik/blob/main/discordimages.png" alt="Sarwar Hossain Discord" height="62" width="62"></code>
   </a>     
 </p>
 
