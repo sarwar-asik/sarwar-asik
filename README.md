@@ -73,7 +73,7 @@
 [![Figma Badge](https://img.shields.io/badge/Figma-ff7362?style=for-the-badge&logo=figma&logoColor=f24d18&labelColor=white)](#)
 [![pycharm Badge](https://img.shields.io/badge/pycharm-28b8a0?style=for-the-badge&logo=pycharm&logoColor=f24d1&labelColor=black)](#)
 
-<h1>
+<!-- <h1>
   Connect With Me 
   <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif"alt="connect sarwar"  height="25px">
 </h1>
@@ -94,8 +94,8 @@
   <a href="https://discord.com/users/.sarwarhossain">
     <code><img  height="70" width="70" src="https://github.com/sarwar-asik/sarwar-asik/blob/main/discordimages.png" alt="Sarwar Hossain Discord"></code>
   </a>     
-</p>
-
+</p> -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarwar-asik&theme=react-dark&bg_color=0D1117&hide_border=true" width="100%" alt="sarwar contribution graph"/>
 <br/>
 <br/>
 
