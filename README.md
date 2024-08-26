@@ -95,9 +95,10 @@
     <code><img  height="70" width="70" src="https://github.com/sarwar-asik/sarwar-asik/blob/main/discordimages.png" alt="Sarwar Hossain Discord"></code>
   </a>     
 </p> -->
+<br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarwar-asik&theme=react-dark&bg_color=0D1117&hide_border=true" width="100%" alt="sarwar contribution graph"/>
 <br/>
-<br/>
+
 
 # 📊 GitHub Stats:
 
