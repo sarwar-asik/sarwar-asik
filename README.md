@@ -6,7 +6,7 @@
 </h1>
 
 <h3 align="center">
-<a  href="https://git.io/typing-svg"><img  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&pause=1000&center=true&vCenter=true&multiline=true&width=670&lines=Full+Stack+Software+Developer+< />" alt="Typing role" /></a>
+<!-- <a  href="https://git.io/typing-svg"><img  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&pause=1000&center=true&vCenter=true&multiline=true&width=670&lines=Full+Stack+Software+Developer+< />" alt="Typing role" /></a> -->
 </h3>
 
 <br/>
