@@ -30,13 +30,13 @@ Backend engineer specializing in **Node.js microservices**, **real-time systems*
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarwar-asik&theme=react-dark&bg_color=0D1117&hide_border=true" width="100%" alt="Contribution Graph" />
 
-<img src="https://streak-stats.demolab.com/?user=sarwar-asik&theme=dark&hide_border=true" height="150" alt="Streak Stats" />
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sarwar-asik&theme=github_dark" alt="Top Languages" />
+<img src="https://streak-stats.demolab.com/?user=sarwar-asik&theme=dark&hide_border=true" height="160" alt="Streak Stats" />
+&nbsp;&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sarwar-asik&theme=github_dark" height="160" alt="GitHub Stats" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sarwar-asik&theme=github_dark" height="150" alt="GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sarwar-asik&theme=github_dark" height="160" alt="Top Languages" />
 
 </div>
 
