@@ -1,0 +1,111 @@
+<svg viewBox="0 0 900 254" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background -->
+  <rect width="900" height="254" fill="#0D1117" rx="10"/>
+
+  <!-- Title bar -->
+  <rect width="900" height="38" fill="#161B22" rx="10"/>
+  <rect y="28" width="900" height="10" fill="#161B22"/>
+
+  <!-- macOS traffic lights -->
+  <circle cx="26" cy="19" r="6" fill="#FF5F57"/>
+  <circle cx="48" cy="19" r="6" fill="#FEBC2E"/>
+  <circle cx="70" cy="19" r="6" fill="#28C840"/>
+
+  <!-- Terminal title -->
+  <text x="450" y="24"
+    font-family="'Courier New',Courier,monospace"
+    font-size="12" fill="#6E7681" text-anchor="middle">sarwar@systems — ~</text>
+
+  <!-- ── Prompt line ── -->
+  <text x="32" y="66"
+    font-family="'Courier New',Courier,monospace"
+    font-size="15" fill="#3FB950">sarwar@systems</text>
+  <text x="172" y="66"
+    font-family="'Courier New',Courier,monospace"
+    font-size="15" fill="#C9D1D9">:~$</text>
+  <text x="206" y="66"
+    font-family="'Courier New',Courier,monospace"
+    font-size="15" fill="#A5D6FF"> cat profile.json</text>
+
+  <!-- ── { ── -->
+  <text x="32" y="92"
+    font-family="'Courier New',Courier,monospace"
+    font-size="15" fill="#C9D1D9">{</text>
+
+  <!-- ── whoami ── -->
+  <text x="50" y="118"
+    font-family="'Courier New',Courier,monospace"
+    font-size="15" fill="#79C0FF">whoami</text>
+  <text x="130" y="118"
+    font-family="'Courier New',Courier,monospace"
+    font-size="15" fill="#C9D1D9">:</text>
+  <text x="148" y="118"
+    font-family="'Courier New',Courier,monospace"
+    font-size="15" fill="#A5D6FF">"Sarwar Hossain  ·  Software Engineer [Backend]"</text>
+  <text x="610" y="118"
+    font-family="'Courier New',Courier,monospace"
+    font-size="15" fill="#C9D1D9">,</text>
+
+  <!-- ── builds ── -->
+  <text x="50" y="144"
+    font-family="'Courier New',Courier,monospace"
+    font-size="15" fill="#79C0FF">builds</text>
+  <text x="130" y="144"
+    font-family="'Courier New',Courier,monospace"
+    font-size="15" fill="#C9D1D9">:</text>
+  <text x="148" y="144"
+    font-family="'Courier New',Courier,monospace"
+    font-size="15" fill="#A5D6FF">"Microservices  ·  Real-time Systems  ·  High-traffic APIs"</text>
+  <text x="688" y="144"
+    font-family="'Courier New',Courier,monospace"
+    font-size="15" fill="#C9D1D9">,</text>
+
+  <!-- ── stack ── -->
+  <text x="50" y="170"
+    font-family="'Courier New',Courier,monospace"
+    font-size="15" fill="#79C0FF">stack</text>
+  <text x="130" y="170"
+    font-family="'Courier New',Courier,monospace"
+    font-size="15" fill="#C9D1D9">:</text>
+  <text x="148" y="170"
+    font-family="'Courier New',Courier,monospace"
+    font-size="15" fill="#A5D6FF">"NestJS  ·  RabbitMQ  ·  Kubernetes  ·  PostgreSQL  ·  Redis"</text>
+  <text x="694" y="170"
+    font-family="'Courier New',Courier,monospace"
+    font-size="15" fill="#C9D1D9">,</text>
+
+  <!-- ── based ── -->
+  <text x="50" y="196"
+    font-family="'Courier New',Courier,monospace"
+    font-size="15" fill="#79C0FF">based</text>
+  <text x="130" y="196"
+    font-family="'Courier New',Courier,monospace"
+    font-size="15" fill="#C9D1D9">:</text>
+  <text x="148" y="196"
+    font-family="'Courier New',Courier,monospace"
+    font-size="15" fill="#A5D6FF">"Dhaka, Bangladesh  (UTC+6)"</text>
+  <text x="418" y="196"
+    font-family="'Courier New',Courier,monospace"
+    font-size="15" fill="#C9D1D9">,</text>
+
+  <!-- ── status ── -->
+  <text x="50" y="222"
+    font-family="'Courier New',Courier,monospace"
+    font-size="15" fill="#79C0FF">status</text>
+  <text x="130" y="222"
+    font-family="'Courier New',Courier,monospace"
+    font-size="15" fill="#C9D1D9">:</text>
+  <text x="148" y="222"
+    font-family="'Courier New',Courier,monospace"
+    font-size="15" fill="#3FB950">"open_to_work"</text>
+  <text x="352" y="222"
+    font-family="'Courier New',Courier,monospace"
+    font-size="15" fill="#6A9955">  // ● open to hire</text>
+
+  <!-- ── } ── -->
+  <text x="32" y="246"
+    font-family="'Courier New',Courier,monospace"
+    font-size="15" fill="#C9D1D9">}</text>
+
+</svg>

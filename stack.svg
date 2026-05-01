@@ -1,0 +1,64 @@
+<svg viewBox="0 0 900 234" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background -->
+  <rect width="900" height="234" fill="#0D1117" rx="8"/>
+
+  <!-- Vertical category separator -->
+  <line x1="112" y1="14" x2="112" y2="220" stroke="#21262D" stroke-width="1"/>
+
+  <!-- Horizontal row dividers -->
+  <line x1="14" y1="53"  x2="886" y2="53"  stroke="#161B22" stroke-width="1"/>
+  <line x1="14" y1="92"  x2="886" y2="92"  stroke="#161B22" stroke-width="1"/>
+  <line x1="14" y1="131" x2="886" y2="131" stroke="#161B22" stroke-width="1"/>
+  <line x1="14" y1="170" x2="886" y2="170" stroke="#161B22" stroke-width="1"/>
+  <line x1="14" y1="209" x2="886" y2="209" stroke="#161B22" stroke-width="1"/>
+
+  <!-- Row 1 · Backend -->
+  <text x="16" y="37"
+    font-family="'Courier New',Courier,monospace"
+    font-size="13" font-weight="bold" fill="#3FB950">Backend</text>
+  <text x="124" y="37"
+    font-family="'Courier New',Courier,monospace"
+    font-size="13" fill="#C9D1D9">Node.js · TypeScript · NestJS · Express.js · REST · Microservices</text>
+
+  <!-- Row 2 · Async / RT -->
+  <text x="16" y="76"
+    font-family="'Courier New',Courier,monospace"
+    font-size="13" font-weight="bold" fill="#F78166">Async/RT</text>
+  <text x="124" y="76"
+    font-family="'Courier New',Courier,monospace"
+    font-size="13" fill="#C9D1D9">Socket.IO · WebRTC · RabbitMQ · BullMQ · Redis pub/sub · Pusher</text>
+
+  <!-- Row 3 · Databases -->
+  <text x="16" y="115"
+    font-family="'Courier New',Courier,monospace"
+    font-size="13" font-weight="bold" fill="#58A6FF">Databases</text>
+  <text x="124" y="115"
+    font-family="'Courier New',Courier,monospace"
+    font-size="13" fill="#C9D1D9">PostgreSQL · MySQL · MongoDB · Elasticsearch · OpenSearch · Redis</text>
+
+  <!-- Row 4 · DevOps -->
+  <text x="16" y="154"
+    font-family="'Courier New',Courier,monospace"
+    font-size="13" font-weight="bold" fill="#BC8CFF">DevOps</text>
+  <text x="124" y="154"
+    font-family="'Courier New',Courier,monospace"
+    font-size="13" fill="#C9D1D9">Docker · Kubernetes · AWS (EC2 · S3 · Route53) · Nginx · GitHub Actions</text>
+
+  <!-- Row 5 · Testing -->
+  <text x="16" y="193"
+    font-family="'Courier New',Courier,monospace"
+    font-size="13" font-weight="bold" fill="#FFA657">Testing</text>
+  <text x="124" y="193"
+    font-family="'Courier New',Courier,monospace"
+    font-size="13" fill="#C9D1D9">Jest · SuperTest · TDD · Unit / Integration / E2E · Clean Architecture</text>
+
+  <!-- Row 6 · Frontend -->
+  <text x="16" y="224"
+    font-family="'Courier New',Courier,monospace"
+    font-size="13" font-weight="bold" fill="#56D364">Frontend</text>
+  <text x="124" y="224"
+    font-family="'Courier New',Courier,monospace"
+    font-size="13" fill="#C9D1D9">React.js · Next.js · Redux · Tailwind CSS · Ant Design</text>
+
+</svg>

@@ -1,0 +1,140 @@
+<svg viewBox="0 0 900 310" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background -->
+  <rect width="900" height="310" fill="#0D1117" rx="10"/>
+
+  <!-- Title bar -->
+  <rect width="900" height="38" fill="#161B22" rx="10"/>
+  <rect y="28" width="900" height="10" fill="#161B22"/>
+
+  <!-- macOS traffic lights -->
+  <circle cx="26" cy="19" r="6" fill="#FF5F57"/>
+  <circle cx="48" cy="19" r="6" fill="#FEBC2E"/>
+  <circle cx="70" cy="19" r="6" fill="#28C840"/>
+
+  <!-- Filename tab -->
+  <text x="450" y="24"
+    font-family="'Courier New',Courier,monospace"
+    font-size="12"
+    fill="#6E7681"
+    text-anchor="middle">sarwar.ts</text>
+
+  <!-- Left accent bar -->
+  <rect x="0" y="38" width="3" height="272" fill="#238636" rx="1"/>
+
+  <!-- ======== CODE ======== -->
+
+  <!-- /** -->
+  <text x="32" y="68"
+    font-family="'Courier New',Courier,monospace"
+    font-size="16"
+    fill="#6A9955">/**</text>
+
+  <!-- * Sarwar Hossain  (name = headline) -->
+  <text x="32" y="94"
+    font-family="'Courier New',Courier,monospace"
+    font-size="16"
+    fill="#6A9955"> * </text>
+  <text x="65" y="94"
+    font-family="'Courier New',Courier,monospace"
+    font-size="19"
+    font-weight="bold"
+    fill="#E6EDF3">Sarwar Hossain</text>
+
+  <!-- * Software Engineer [Backend]  (title = subheadline) -->
+  <text x="32" y="118"
+    font-family="'Courier New',Courier,monospace"
+    font-size="16"
+    fill="#6A9955"> * </text>
+  <text x="65" y="118"
+    font-family="'Courier New',Courier,monospace"
+    font-size="16"
+    fill="#79C0FF">Software Engineer [Backend]</text>
+
+  <!-- */ -->
+  <text x="32" y="142"
+    font-family="'Courier New',Courier,monospace"
+    font-size="16"
+    fill="#6A9955"> */</text>
+
+  <!-- class Profile { -->
+  <text x="32" y="168"
+    font-family="'Courier New',Courier,monospace"
+    font-size="16"
+    fill="#FF7B72">class </text>
+  <text x="84" y="168"
+    font-family="'Courier New',Courier,monospace"
+    font-size="16"
+    fill="#4EC9B0">Profile </text>
+  <text x="152" y="168"
+    font-family="'Courier New',Courier,monospace"
+    font-size="16"
+    fill="#C9D1D9">{</text>
+
+  <!-- role = "Microservices · Real-time Systems · High-traffic APIs" -->
+  <text x="50" y="194"
+    font-family="'Courier New',Courier,monospace"
+    font-size="16"
+    fill="#79C0FF">role</text>
+  <text x="148" y="194"
+    font-family="'Courier New',Courier,monospace"
+    font-size="16"
+    fill="#C9D1D9">=</text>
+  <text x="168" y="194"
+    font-family="'Courier New',Courier,monospace"
+    font-size="16"
+    fill="#A5D6FF">"Microservices · Real-time Systems · High-traffic APIs"</text>
+
+  <!-- stack = "NestJS · RabbitMQ · Kubernetes · PostgreSQL" -->
+  <text x="50" y="220"
+    font-family="'Courier New',Courier,monospace"
+    font-size="16"
+    fill="#79C0FF">stack</text>
+  <text x="148" y="220"
+    font-family="'Courier New',Courier,monospace"
+    font-size="16"
+    fill="#C9D1D9">=</text>
+  <text x="168" y="220"
+    font-family="'Courier New',Courier,monospace"
+    font-size="16"
+    fill="#A5D6FF">"NestJS · RabbitMQ · Kubernetes · PostgreSQL"</text>
+
+  <!-- based = "Dhaka, Bangladesh  (UTC+6)" -->
+  <text x="50" y="246"
+    font-family="'Courier New',Courier,monospace"
+    font-size="16"
+    fill="#79C0FF">based</text>
+  <text x="148" y="246"
+    font-family="'Courier New',Courier,monospace"
+    font-size="16"
+    fill="#C9D1D9">=</text>
+  <text x="168" y="246"
+    font-family="'Courier New',Courier,monospace"
+    font-size="16"
+    fill="#A5D6FF">"Dhaka, Bangladesh  (UTC+6)"</text>
+
+  <!-- status = "open_to_work"  // ● open to hire -->
+  <text x="50" y="272"
+    font-family="'Courier New',Courier,monospace"
+    font-size="16"
+    fill="#79C0FF">status</text>
+  <text x="148" y="272"
+    font-family="'Courier New',Courier,monospace"
+    font-size="16"
+    fill="#C9D1D9">=</text>
+  <text x="168" y="272"
+    font-family="'Courier New',Courier,monospace"
+    font-size="16"
+    fill="#3FB950">"open_to_work"</text>
+  <text x="390" y="272"
+    font-family="'Courier New',Courier,monospace"
+    font-size="16"
+    fill="#6A9955">  // ● open to hire</text>
+
+  <!-- } -->
+  <text x="32" y="298"
+    font-family="'Courier New',Courier,monospace"
+    font-size="16"
+    fill="#C9D1D9">}</text>
+
+</svg>
